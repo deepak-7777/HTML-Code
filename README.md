@@ -19,7 +19,6 @@ The goal of this project is to practice HTML fundamentals and understand how web
 * Lists (Ordered & Unordered)
 * Tables
 * Forms & Input Fields
-* Semantic Elements
 
 ---
 
