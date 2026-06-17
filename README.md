@@ -2,7 +2,7 @@
 
 This repository contains my practice work created while learning **HTML (HyperText Markup Language)**. It includes multiple examples and pages that demonstrate my understanding of web page structure and basic frontend development. 
 
----
+--- 
 
 ## 📚 About
 
