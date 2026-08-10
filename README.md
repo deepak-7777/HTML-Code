@@ -8,7 +8,7 @@ This repository contains my practice work created while learning **HTML (HyperTe
 
 The goal of this project is to practice HTML fundamentals and understand how web pages are structured using different tags and elements.
 
----
+--- 
 
 ## 🚀 Topics Covered
 
