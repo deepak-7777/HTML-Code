@@ -10,7 +10,7 @@ The goal of this project is to practice HTML fundamentals and understand how web
 
 --- 
 
-## 🚀 Topics Covered
+## 🚀 Topics Covered 
 
 * HTML Page Structure
 * Headings & Paragraphs
